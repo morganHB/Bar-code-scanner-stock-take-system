@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Morgan\\Documents\\Stocktakemodle\\StockTakeSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6862FBF-A08D-4B54-BC88-CA0D598410BC}|StockTakeSystem\\StockTakeSystem.csproj|c:\\users\\morgan\\documents\\stocktakemodle\\stocktakesystem\\stocktakesystem\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6862FBF-A08D-4B54-BC88-CA0D598410BC}|StockTakeSystem\\StockTakeSystem.csproj|solutionrelative:stocktakesystem\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6862FBF-A08D-4B54-BC88-CA0D598410BC}|StockTakeSystem\\StockTakeSystem.csproj|C:\\Users\\Morgan\\Documents\\Stocktakemodle\\StockTakeSystem\\stocktakesystem\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6862FBF-A08D-4B54-BC88-CA0D598410BC}|StockTakeSystem\\StockTakeSystem.csproj|solutionrelative:stocktakesystem\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6862FBF-A08D-4B54-BC88-CA0D598410BC}|StockTakeSystem\\StockTakeSystem.csproj|C:\\Users\\Morgan\\Documents\\Stocktakemodle\\StockTakeSystem\\stocktakesystem\\edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6862FBF-A08D-4B54-BC88-CA0D598410BC}|StockTakeSystem\\StockTakeSystem.csproj|solutionrelative:stocktakesystem\\edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6862FBF-A08D-4B54-BC88-CA0D598410BC}|StockTakeSystem\\StockTakeSystem.csproj|C:\\Users\\Morgan\\Documents\\Stocktakemodle\\StockTakeSystem\\stocktakesystem\\edituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6862FBF-A08D-4B54-BC88-CA0D598410BC}|StockTakeSystem\\StockTakeSystem.csproj|solutionrelative:stocktakesystem\\edituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6862FBF-A08D-4B54-BC88-CA0D598410BC}|StockTakeSystem\\StockTakeSystem.csproj|C:\\Users\\Morgan\\Documents\\Stocktakemodle\\StockTakeSystem\\stocktakesystem\\edituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6862FBF-A08D-4B54-BC88-CA0D598410BC}|StockTakeSystem\\StockTakeSystem.csproj|solutionrelative:stocktakesystem\\edituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6862FBF-A08D-4B54-BC88-CA0D598410BC}|StockTakeSystem\\StockTakeSystem.csproj|C:\\Users\\Morgan\\Documents\\Stocktakemodle\\StockTakeSystem\\stocktakesystem\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6862FBF-A08D-4B54-BC88-CA0D598410BC}|StockTakeSystem\\StockTakeSystem.csproj|solutionrelative:stocktakesystem\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6862FBF-A08D-4B54-BC88-CA0D598410BC}|StockTakeSystem\\StockTakeSystem.csproj|C:\\Users\\Morgan\\Documents\\Stocktakemodle\\StockTakeSystem\\stocktakesystem\\edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6862FBF-A08D-4B54-BC88-CA0D598410BC}|StockTakeSystem\\StockTakeSystem.csproj|solutionrelative:stocktakesystem\\edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6862FBF-A08D-4B54-BC88-CA0D598410BC}|StockTakeSystem\\StockTakeSystem.csproj|C:\\Users\\Morgan\\Documents\\Stocktakemodle\\StockTakeSystem\\stocktakesystem\\addpartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6862FBF-A08D-4B54-BC88-CA0D598410BC}|StockTakeSystem\\StockTakeSystem.csproj|solutionrelative:stocktakesystem\\addpartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6862FBF-A08D-4B54-BC88-CA0D598410BC}|StockTakeSystem\\StockTakeSystem.csproj|C:\\Users\\Morgan\\Documents\\Stocktakemodle\\StockTakeSystem\\stocktakesystem\\addpartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6862FBF-A08D-4B54-BC88-CA0D598410BC}|StockTakeSystem\\StockTakeSystem.csproj|solutionrelative:stocktakesystem\\addpartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6862FBF-A08D-4B54-BC88-CA0D598410BC}|StockTakeSystem\\StockTakeSystem.csproj|C:\\Users\\Morgan\\Documents\\Stocktakemodle\\StockTakeSystem\\stocktakesystem\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6862FBF-A08D-4B54-BC88-CA0D598410BC}|StockTakeSystem\\StockTakeSystem.csproj|solutionrelative:stocktakesystem\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6862FBF-A08D-4B54-BC88-CA0D598410BC}|StockTakeSystem\\StockTakeSystem.csproj|C:\\Users\\Morgan\\Documents\\Stocktakemodle\\StockTakeSystem\\stocktakesystem\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6862FBF-A08D-4B54-BC88-CA0D598410BC}|StockTakeSystem\\StockTakeSystem.csproj|solutionrelative:stocktakesystem\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6862FBF-A08D-4B54-BC88-CA0D598410BC}|StockTakeSystem\\StockTakeSystem.csproj|C:\\Users\\Morgan\\Documents\\Stocktakemodle\\StockTakeSystem\\stocktakesystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6862FBF-A08D-4B54-BC88-CA0D598410BC}|StockTakeSystem\\StockTakeSystem.csproj|solutionrelative:stocktakesystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6862FBF-A08D-4B54-BC88-CA0D598410BC}|StockTakeSystem\\StockTakeSystem.csproj|C:\\Users\\Morgan\\Documents\\Stocktakemodle\\StockTakeSystem\\stocktakesystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6862FBF-A08D-4B54-BC88-CA0D598410BC}|StockTakeSystem\\StockTakeSystem.csproj|solutionrelative:stocktakesystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Morgan\\Documents\\Stocktakemodle\\StockTakeSystem\\StockTakeSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "StockTakeSystem\\Form1.cs",
+              "ToolTip": "C:\\Users\\Morgan\\Documents\\Stocktakemodle\\StockTakeSystem\\StockTakeSystem\\Form1.cs [Design]",
+              "RelativeToolTip": "StockTakeSystem\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T10:28:20.796Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Morgan\\Documents\\Stocktakemodle\\StockTakeSystem\\StockTakeSystem\\Form2.cs",
+              "RelativeDocumentMoniker": "StockTakeSystem\\Form2.cs",
+              "ToolTip": "C:\\Users\\Morgan\\Documents\\Stocktakemodle\\StockTakeSystem\\StockTakeSystem\\Form2.cs [Design]",
+              "RelativeToolTip": "StockTakeSystem\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T21:29:20.424Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddUser.cs",
+              "DocumentMoniker": "C:\\Users\\Morgan\\Documents\\Stocktakemodle\\StockTakeSystem\\StockTakeSystem\\AddUser.cs",
+              "RelativeDocumentMoniker": "StockTakeSystem\\AddUser.cs",
+              "ToolTip": "C:\\Users\\Morgan\\Documents\\Stocktakemodle\\StockTakeSystem\\StockTakeSystem\\AddUser.cs",
+              "RelativeToolTip": "StockTakeSystem\\AddUser.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAD4vxoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T11:30:04.722Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddUser.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Morgan\\Documents\\Stocktakemodle\\StockTakeSystem\\StockTakeSystem\\AddUser.cs",
+              "RelativeDocumentMoniker": "StockTakeSystem\\AddUser.cs",
+              "ToolTip": "C:\\Users\\Morgan\\Documents\\Stocktakemodle\\StockTakeSystem\\StockTakeSystem\\AddUser.cs [Design]",
+              "RelativeToolTip": "StockTakeSystem\\AddUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T11:29:58.308Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditUser.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Morgan\\Documents\\Stocktakemodle\\StockTakeSystem\\StockTakeSystem\\EditUser.cs",
+              "RelativeDocumentMoniker": "StockTakeSystem\\EditUser.cs",
+              "ToolTip": "C:\\Users\\Morgan\\Documents\\Stocktakemodle\\StockTakeSystem\\StockTakeSystem\\EditUser.cs [Design]",
+              "RelativeToolTip": "StockTakeSystem\\EditUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T11:32:51.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Invoice.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Morgan\\Documents\\Stocktakemodle\\StockTakeSystem\\StockTakeSystem\\Invoice.cs",
+              "RelativeDocumentMoniker": "StockTakeSystem\\Invoice.cs",
+              "ToolTip": "C:\\Users\\Morgan\\Documents\\Stocktakemodle\\StockTakeSystem\\StockTakeSystem\\Invoice.cs [Design]",
+              "RelativeToolTip": "StockTakeSystem\\Invoice.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T12:48:43.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cs",
+              "DocumentMoniker": "C:\\Users\\Morgan\\Documents\\Stocktakemodle\\StockTakeSystem\\StockTakeSystem\\Edit.cs",
+              "RelativeDocumentMoniker": "StockTakeSystem\\Edit.cs",
+              "ToolTip": "C:\\Users\\Morgan\\Documents\\Stocktakemodle\\StockTakeSystem\\StockTakeSystem\\Edit.cs",
+              "RelativeToolTip": "StockTakeSystem\\Edit.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T22:39:43.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Morgan\\Documents\\Stocktakemodle\\StockTakeSystem\\StockTakeSystem\\Form2.cs",
+              "RelativeDocumentMoniker": "StockTakeSystem\\Form2.cs",
+              "ToolTip": "C:\\Users\\Morgan\\Documents\\Stocktakemodle\\StockTakeSystem\\StockTakeSystem\\Form2.cs",
+              "RelativeToolTip": "StockTakeSystem\\Form2.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwJcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T21:31:12.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditUser.cs",
+              "DocumentMoniker": "C:\\Users\\Morgan\\Documents\\Stocktakemodle\\StockTakeSystem\\StockTakeSystem\\EditUser.cs",
+              "RelativeDocumentMoniker": "StockTakeSystem\\EditUser.cs",
+              "ToolTip": "C:\\Users\\Morgan\\Documents\\Stocktakemodle\\StockTakeSystem\\StockTakeSystem\\EditUser.cs",
+              "RelativeToolTip": "StockTakeSystem\\EditUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T11:32:56.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddPartForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Morgan\\Documents\\Stocktakemodle\\StockTakeSystem\\StockTakeSystem\\AddPartForm.cs",
+              "RelativeDocumentMoniker": "StockTakeSystem\\AddPartForm.cs",
+              "ToolTip": "C:\\Users\\Morgan\\Documents\\Stocktakemodle\\StockTakeSystem\\StockTakeSystem\\AddPartForm.cs [Design]",
+              "RelativeToolTip": "StockTakeSystem\\AddPartForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T22:27:31.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Morgan\\Documents\\Stocktakemodle\\StockTakeSystem\\StockTakeSystem\\Edit.cs",
+              "RelativeDocumentMoniker": "StockTakeSystem\\Edit.cs",
+              "ToolTip": "C:\\Users\\Morgan\\Documents\\Stocktakemodle\\StockTakeSystem\\StockTakeSystem\\Edit.cs [Design]",
+              "RelativeToolTip": "StockTakeSystem\\Edit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T22:27:12.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddPartForm.cs",
+              "DocumentMoniker": "C:\\Users\\Morgan\\Documents\\Stocktakemodle\\StockTakeSystem\\StockTakeSystem\\AddPartForm.cs",
+              "RelativeDocumentMoniker": "StockTakeSystem\\AddPartForm.cs",
+              "ToolTip": "C:\\Users\\Morgan\\Documents\\Stocktakemodle\\StockTakeSystem\\StockTakeSystem\\AddPartForm.cs",
+              "RelativeToolTip": "StockTakeSystem\\AddPartForm.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAmwDcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T21:50:31.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Morgan\\Documents\\Stocktakemodle\\StockTakeSystem\\StockTakeSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "StockTakeSystem\\Form1.cs",
+              "ToolTip": "C:\\Users\\Morgan\\Documents\\Stocktakemodle\\StockTakeSystem\\StockTakeSystem\\Form1.cs",
+              "RelativeToolTip": "StockTakeSystem\\Form1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAnwBEAAAC5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T21:45:27.664Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
